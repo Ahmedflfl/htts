@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+.cntents{
+    border: 40px solid rgba(38, 0, 255, 0.57);
+  border-radius: 106px;
+}
